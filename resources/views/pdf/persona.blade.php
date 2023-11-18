@@ -1,4 +1,3 @@
-{{--JSS--}}
 <!DOCTYPE html>
 <html>
 <head>

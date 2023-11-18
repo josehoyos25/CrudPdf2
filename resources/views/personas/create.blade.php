@@ -5,7 +5,7 @@ Registro Usuario
 @endsection
 
 @section('content')
-    <div class="bg-gray-300 w-full pl-1 flex justify-center items-center" >
+    <div class="w-full pl-1 flex justify-center items-center" >
 
         <form class="flex flex-col w-[400px] gap-3 bg-black p-5 rounded-xl" action="{{route('personas.store')}}" method="POST">
         @csrf

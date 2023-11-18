@@ -1,5 +1,8 @@
-{{--JSS--}}
 @extends('layouts.app')
+
+@section('titulo')
+Personas Ingresadas
+@endsection
 
 @section('content')
     <div class="container">
